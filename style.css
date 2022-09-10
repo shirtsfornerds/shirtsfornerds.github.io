@@ -1,14 +1,14 @@
 * {box-sizing: border-box;}
 
 body { 
-  background-color: #002240;
-  color: white;
-  font-family:"Courier New";
+  background-color: #ededed;
+  color: #262626;
+ font-family: Verdana, sans-serif;
 }
 
 .header {
   overflow: hidden;
-  background-color: #7e7e7e;
+  background-color: #cccccc;
   padding: 20px 10px;
   
 }
