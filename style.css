@@ -32,3 +32,8 @@ body {
   background-color: #ddd;
   color: black;
 }
+
+.header a.active {
+  background-color: #7e7e7e;
+  color: white;
+}
