@@ -3,7 +3,9 @@
 body { 
   background-color: #ededed;
   color: #262626;
- font-family: Verdana, sans-serif;
+  font-family: Verdana, sans-serif;
+  border-style: solid;
+  border-color: #ededed;
 }
 
 .header {
